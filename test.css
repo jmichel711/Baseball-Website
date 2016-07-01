@@ -1,0 +1,38 @@
+
+ #Game {
+      color: red;
+      font-size: 32px;
+    }
+body {
+    background-color: #88ff11;
+}
+
+ul {
+    color: red;
+}
+img {
+    size: 64px;
+}
+#Pitching {
+      color: red;
+      font-size: 32px;
+    }
+p{
+    color: orangered;
+    font-size: 32px;
+}
+ul {
+    text-align: center;
+    font-size: 32px;
+}
+#Batting {
+    color: red;
+    font-size: 32px;
+}
+#List {
+    Color: red;
+    font-size: 32px;
+}
+ol {
+    color: red;
+    font-size: 32px;
